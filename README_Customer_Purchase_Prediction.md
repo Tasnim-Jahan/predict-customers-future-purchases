@@ -11,9 +11,9 @@ This project focuses on predicting whether a customer will make a purchase withi
 
 | File Name                                                | Description |
 |----------------------------------------------------------|-------------|
-| `Online_Retail.ipynb`                                    | Main Jupyter notebook for the entire analysis, visualization, and modeling pipeline |
-| `README.md`                                              | Project overview and documentation |
-| `_An_approach_to_Predict_Customer's_future_Purchases.ipynb` | Backup or initial draft version of the notebook |
+| `_An_approach_to_Predict_Customer's_future_Purchases.ipynb`| Main Jupyter notebook for the entire analysis, visualization, and modeling pipeline |
+| `README.md`                                                | Project overview and documentation |
+| `Online_Retail.ipynb`                                      | Backup or initial draft version of the notebook |
 
 ---
 

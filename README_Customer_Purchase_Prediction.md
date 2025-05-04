@@ -86,7 +86,7 @@ Using the **Online Retail Dataset** from Kaggle, the project applies:
 
 ## 📁 Dataset
 
-- Online Retail Dataset (from [Kaggle](https://www.kaggle.com/datasets))  
+- Online Retail Dataset from UCI 
 - Covers transactions between Dec 2009 – Dec 2011  
 - Over 1 million rows
 
@@ -94,12 +94,8 @@ Using the **Online Retail Dataset** from Kaggle, the project applies:
 
 ## 🙌 Acknowledgements
 
-- Dataset by UCI / Kaggle  
+- Dataset by UCI  
 - Inspired by real-world customer behavior modeling practices  
 - Special thanks to Colab for notebook development
 
----
 
-🔗 Also check out:  
-**[Thyroid Nodule Segmentation](https://github.com/yourusername/Thyroid-Nodule-Segmentation)**  
-Comparative analysis of U-Net and pretrained backbones on medical imaging data.
